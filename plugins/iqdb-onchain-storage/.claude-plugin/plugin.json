@@ -2,5 +2,7 @@
   "name": "iqdb-onchain-storage",
   "version": "1.0.0",
   "description": "On-chain relational database on Solana using IQ Labs Code-In tech (IQDB, hanLock, x402). Full CRUD with tamper-evident rolling hash, Hangul-encoded privacy, and payment-gated file inscription.",
-  "author": "Rocket Labs"
+  "author": {
+    "name": "Rocket Labs AI"
+  }
 }
