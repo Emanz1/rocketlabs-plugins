@@ -1,0 +1,13 @@
+{
+  "name": "rocketlabs-plugins",
+  "owner": {
+    "name": "Rocket Labs"
+  },
+  "plugins": [
+    {
+      "name": "iqdb-onchain-storage",
+      "source": "./plugins/iqdb-onchain-storage",
+      "description": "On-chain relational database on Solana using IQ Labs Code-In tech (IQDB, hanLock, x402). Store structured data on-chain with tamper-evident history, password-encoded privacy, and payment-gated file inscription."
+    }
+  ]
+}
